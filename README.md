@@ -7,6 +7,8 @@
 
 - [Fundamentos de Ingeniería de Software](https://platzi.com/@jair8choa/curso/1098-ingenieria/diploma/detalle/)
 
+- [Curso de Introducción a la Terminal y Línea de Comandos](https://platzi.com/@jair8choa/curso/1748-terminal/diploma/detalle/)
+
 - [Curso Profesional de Git y GitHub](https://platzi.com/@jair8choa/curso/1557-git-github/diploma/detalle/)
 
 - [Curso Básico de Python](https://platzi.com/@jair8choa/curso/1937-pythonbasico/diploma/detalle/)
