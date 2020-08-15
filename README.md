@@ -5,4 +5,4 @@
 
 ### Platzi
 
-- [Curso Profesional de Git y GitHub](http://https://platzi.com/@jair8choa/curso/1557-git-github/diploma/detalle/")
+- [Curso Profesional de Git y GitHub](http://https://platzi.com/@jair8choa/curso/1557-git-github/diploma/detalle/)
