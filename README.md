@@ -1,7 +1,7 @@
 ### Kaggle
-- [Python](http://https://www.kaggle.com/learn/certification/joaquinjairoochoa/python)
+- [Python](https://https://www.kaggle.com/learn/certification/joaquinjairoochoa/python)
 
-- [Pandas](http://https://www.kaggle.com/learn/certification/joaquinjairoochoa/pandas)
+- [Pandas](https://https://www.kaggle.com/learn/certification/joaquinjairoochoa/pandas)
 
 ### Platzi
 
