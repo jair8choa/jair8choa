@@ -16,3 +16,5 @@
 - [Curso de Introducción al Pensamiento Computacional con Python](https://platzi.com/@jair8choa/curso/1764-python-cs/diploma/detalle/)
 
 - [Curso de POO y Algoritmos con Python](https://platzi.com/@jair8choa/curso/1775-poo-python/diploma/detalle/)
+
+- [Curso de Programación Dinámica y Estocástica con Python](https://platzi.com/@jair8choa/curso/1835-programacion-estocastica/diploma/detalle/)
